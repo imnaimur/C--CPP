@@ -8,4 +8,7 @@ int main()
     printf("%d-%d=%d", a, b, a - b);
     printf("%d/%d=%f", a, b, a / b);
     return 0;
+
+
+    
 }
