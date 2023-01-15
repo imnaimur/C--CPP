@@ -1,0 +1,1 @@
+{"name":"Local: learn","url":"/Volumes/naimur/cpp/learn.cpp","tests":[{"id":1673711710662,"input":"3\n3 0 1\n1","output":""},{"id":1673711729893,"input":"5\n1 3 0 4 5\n10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Volumes/naimur/cpp/learn.cpp","group":"local","local":true}

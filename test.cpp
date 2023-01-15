@@ -1,17 +1,16 @@
-#include <iostream>
- 
+#include<iostream>
+#include<bits/stdc++.h>
+#include<vector>
 using namespace std;
- 
-int main() {
- 
-    /**
-     * Escreva a sua solução aqui
-     * Code your solution here
-     * Escriba su solución aquí
-     */
-     int a,b;
-     cin>>a >> b;
-     cout<< "PROD = "<<a*b << "\n";
- 
-    return 0;
+
+int main(){
+    vector<int> v;
+    int n;
+    cin >> n;
+    for(int i = 0; i< n; i++){
+        int a;
+        cin >> a;
+        v.push_back(a);
+    }
+    cout << v[1];
 }
