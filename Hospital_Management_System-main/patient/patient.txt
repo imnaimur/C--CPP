@@ -1,0 +1,154 @@
+P1001
+Takib Khan
+55
+M
+01884055563
+O+
+Heart Problem
+01234
+D1002
+101
+
+P1002
+Takiba Islam
+40
+F
+01841231237
+A+
+Eye problem
+0
+D1001
+102
+
+P1003
+Tanjima Begum
+45
+F
+01886055563
+O+
+Urine Infection
+0
+D1004
+103
+
+P1004
+Sakib Ahmed
+8
+M
+01534567894
+O+
+Rash
+0
+D1003
+104
+
+P1006
+Tanjimul Islam
+22
+M
+01846108023
+A+
+Fever
+0
+D1005
+105
+
+P1009
+Akbor Ali
+55
+M
+01625347895
+AB-
+Broken leg
+0
+D1003
+107
+
+P1014
+Jariat Ahmed
+25
+M
+01235687496
+B+
+Typhoed
+0
+D1001
+106
+
+P1015
+Zaviar Ali
+33
+M
+01523456897
+B+
+Nefraytise
+0
+D1005
+108
+
+P1016
+Jumael Kuddus
+22
+M
+01623547895
+A+
+Apendisyties
+0
+D1002
+109
+
+P1017
+Nairus Shifat
+23
+F
+01845698532
+B-
+Injury
+0
+D1004
+110
+
+P1018
+Hure Jannat
+17
+F
+01845897564
+A+
+Fever
+012
+D1005
+111
+
+P1019
+Shishir Shah
+19
+M
+01712356897
+A+
+Mental Health
+0
+D1001
+112
+
+P1020
+Azmain Faisal
+21
+M
+01723568794
+A+
+Lung problem
+0
+D1002
+113
+
+P1021
+Afnan Hasan
+22
+M
+01890430587
+A-
+Allergie
+0
+D1004
+114
+

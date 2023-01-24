@@ -1,0 +1,40 @@
+D1001
+Nayeem Mahmood
+MBBS,FCPS
+DMC
+01673793558
+Medicine
+asbs
+
+D1002
+Jamil As-ad
+MBBS
+CMC
+01865593488
+Cardiologist
+doc123
+
+D1003
+Takib Khan
+MBBS
+DMC
+01212121212
+Child Pathologist
+doc123
+
+D1004
+Alif Hossen
+MBBS
+CMC
+01541545454
+Allergist
+doc123
+
+D1005
+Monsur Alam
+MBBS
+CMC
+01819805468
+Nephorlogist
+doc123
+
