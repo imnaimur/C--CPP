@@ -1,19 +1,25 @@
 //  #include<iostream>/
 #include<bits/stdc++.h>
+// #include<stdlib.h>
 // #include<vector>
 // #include<bits/.DS_Store>
 using namespace std;
 
 int main(){
-    vector<int> v;
-    int n;
-    cin >> n;
-    for(int i = 0; i< n; i++){
-        int a;
-        cin >> a;
-        v.push_back(a);
-    }
-    cout << v[1];
+    // vector<int> v;
+    // int n;
+    // cin >> n;
+    // for(int i = 0; i< n; i++){
+    //     int a;
+    //     cin >> a;
+    //     v.push_back(a);
+    // }
+    // cout << v[1];
+    system("clear");
+    cout<< "hello wrold" << endl;
+    system("clear");
+    cout<< "thanks" << endl;
+    system("clear");
 }
 
 // int main(){
